@@ -18,4 +18,4 @@ Commands list:
 - markov
 - named_entities
 
-Use manywords.py [-h] to get all the commands list.
+Use manywords.py [-h] to get the commands list.
