@@ -1,0 +1,13 @@
+import os
+import sys
+import re
+
+def main():
+    f = sys.stdin 
+    commands = {"rmwlines" : rmwlines,
+            
+    }
+
+    data = commands.get(comm)(f)
+
+main()

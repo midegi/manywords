@@ -1,0 +1,2 @@
+language: tokenizers/punkt/english.pickle
+markov: 1
